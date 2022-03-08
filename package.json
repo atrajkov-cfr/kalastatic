@@ -17,7 +17,7 @@
     "jstransformer-commonmark": "^1.0.0",
     "jstransformer-precss": "^0.3.0",
     "jstransformer-pug": "^0.3.0",
-    "jstransformer-scss": "^1.0.0",
+    "jstransformer-scss": "git+https://github.com/atrajkov-cfr/jstransformer-scss",
     "jstransformer-twig": "~1.6.2",
     "kss": "^3.0.1",
     "kstat-kss-builder": "~2.2.0",
